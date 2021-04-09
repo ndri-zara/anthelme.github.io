@@ -1,0 +1,90 @@
+.name{
+    width: 50%;
+    height: 60%;
+    color: white;
+    background: rgba(0, 0, 0, 0.8);
+    z-index: 1;
+    position: absolute;
+    text-align: center;
+    font-family: Georgia;
+    margin: 0 auto;
+    left: 0;
+    right: 0;
+    top: 190px;
+    width: 70%;
+    font-size: 60px;
+    padding: 10px 20px
+   
+}
+
+.titre{
+    
+}
+
+
+body{
+    align-items: center;
+    justify-content: center;
+    display: flex;
+}
+
+.header{
+    height: 350px;
+    width: 100%;  
+    display: inline-block;
+    position: relative;
+
+}
+
+
+
+.figure{
+
+}
+
+img{
+    width: 100%;
+    height: 650px;
+}
+
+
+
+.contenu{
+ 
+  align-items: center;  
+  justify-content: center;
+  position: absolute;
+  bottom: 0;
+  top: 700px;
+  margin-left: 20px;
+  margin-right: 20px;
+  color: white;
+  background: white;
+ 
+
+
+}
+
+p{
+    font-family: 'Open Sans', sans-serif;
+	text-align: justify;
+	margin-bottom: 40px;
+	margin-left: 20px;
+    margin-right: 20px;
+    color: black;
+
+}
+
+.avatar{
+    border-radius: 1000%;
+    width: 10%;
+    height: 10%;
+}
+
+h1{
+    text-align: center;
+	font-family: 'Oswald', sans-serif;
+	margin-bottom: 30px;
+    color: #050101;
+    
+}
